@@ -1,0 +1,7 @@
+langgraph
+langchain
+langchain_huggingface
+chromadb
+python-dotenv
+crewAI-tools
+tavily-python
